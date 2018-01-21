@@ -17,3 +17,4 @@ public class MyPlugin extends JavaPlugin{
         getLogger().info("!!! supersed插件被停用");
     }
 }
+ 
